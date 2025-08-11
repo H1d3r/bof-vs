@@ -7,6 +7,10 @@ You can read more about rationale and design decisions from this blog [post](htt
 
 To get started, use the instructions provided below.
 
+### Video Walkthrough
+
+https://github.com/user-attachments/assets/256fec31-bf25-4c10-9a10-0ab50751ca6d
+
 ### Prerequisites:
 
 * An x64 Windows 10/11 development machine (without a security solution)
